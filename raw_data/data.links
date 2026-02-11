@@ -1,0 +1,7 @@
+
+
+
+#to download 3 Samples
+
+1- curl -L -o sub.tar.gz https://ndownloader.figshare.com/files/14418248
+2- tar xvf sub.tar.gz
